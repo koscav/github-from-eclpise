@@ -7,7 +7,7 @@ public class hell {
 
 		System.out.println("helloQ o k ok o k ok ok ok ok o");
 		
-		System.out.println("GEIA SAS POULAKIA MOY OMORFAAAA!! <3 <# <# MOYTS MOYTS");
+		System.out.println("5 6 malakitses <3 <# <# MOYTS MOYTS");
 	
 	}
 
